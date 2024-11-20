@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunjotSK)](https://github.com/TarunjotSK/github-readme-stats)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
